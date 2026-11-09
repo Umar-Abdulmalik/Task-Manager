@@ -19,7 +19,7 @@ Python 3.9 or newer.
 ## Getting started
 
 ```
-git clone https://github.com/Umar Abdulmalik/task-manager.git
+git clone https://github.com/Umar-Abdulmalik/Task-Manager.git
 cd task-manager
 python -m venv venv
 venv\Scripts\activate        # Mac/Linux: source venv/bin/activate
@@ -36,7 +36,7 @@ python -m pytest -v
 ## Project structure
 
 ```
-task-manager/
+Task-Manager/
 ├── main.py              # starts the app
 ├── src/
 │   ├── task.py          # Task model and validation
